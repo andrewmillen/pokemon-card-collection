@@ -1,0 +1,49 @@
+{
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "id": "base1-44",
+      "owned": true
+    },
+    {
+      "name": "Ivysaur",
+      "id": "base1-30",
+      "owned": true
+    },
+    {
+      "name": "Venusaur",
+      "id": "base1-15",
+      "owned": true
+    },
+    {
+      "name": "Charmander",
+      "id": "base1-46",
+      "owned": true
+    },
+    {
+      "name": "Charmeleon",
+      "id": "base1-24",
+      "owned": true
+    },
+    {
+      "name": "Charizard",
+      "id": "base1-4",
+      "owned": false
+    },
+    {
+      "name": "Squirtle",
+      "id": "base1-63",
+      "owned": true
+    },
+    {
+      "name": "Wartortle",
+      "id": "base1-42",
+      "owned": true
+    },
+    {
+      "name": "Blastoise",
+      "id": "base1-2",
+      "owned": true
+    }
+  ]
+}
